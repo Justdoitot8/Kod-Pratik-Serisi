@@ -3,7 +3,7 @@ Bu repo, çeşitli programlama konularında pratik yapmanıza yardımcı olacak 
 
 ## İçerik
 
-- [Pratik 1: Merhaba Dünya](büyüktenkücüge.c)
+- [Pratik 1: Merhaba Dünya](https://github.com/Justdoitot8/Kod-Pratik-Serisi/blob/852625fb6ff62cefbd960ac1e2440b721ccbf90d/hello.py)
 - [Pratik 2: Fibonacci Dizisi](./pratik2/README.md)
 - [Pratik 3: Asal Sayı Kontrolü](./pratik3/README.md)
 
