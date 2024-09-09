@@ -3,7 +3,7 @@ Bu repo, çeşitli programlama konularında pratik yapmanıza yardımcı olacak 
 
 ## İçerik
 
-- [Pratik 1: Merhaba Dünya](./pratik1/README.md)
+- [Pratik 1: Merhaba Dünya](büyüktenkücüge.c)
 - [Pratik 2: Fibonacci Dizisi](./pratik2/README.md)
 - [Pratik 3: Asal Sayı Kontrolü](./pratik3/README.md)
 
